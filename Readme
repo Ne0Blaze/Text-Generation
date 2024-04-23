@@ -1,0 +1,11 @@
+Here using the first 4 Chapters of Moby-Dick we train are ANN to generate the next probable word
+If we contive this process- generate next probable word - for n number of ittiration we are able to generate entire sentences
+After n number of ittration we can cross the seed input and pridict on our own pridicted words leading to seedless pridictions
+
+
+
+Since traning an ANN requred more time resources if you want to try out the model that I have created 
+you can just load the model and work with it
+
+
+NOTE# All the data used to train the model is included
